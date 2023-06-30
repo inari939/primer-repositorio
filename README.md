@@ -1,2 +1,2 @@
 # primer-repositorio
-este es mi primer repositorio hecho con lorem ipsum para rellenar textos que en un futuro serian datos personales a modo de cv
+este es mi primer repositorio! pagina web portafolio con textos ficticios, se pueden cambiar los textos e imagenes por informacion real
